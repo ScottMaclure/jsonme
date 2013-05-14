@@ -1,1 +1,5 @@
 codekit-config.json
+
+#Intellij
+*.iml
+.idea
