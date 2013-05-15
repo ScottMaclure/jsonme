@@ -7,8 +7,8 @@
 	"name" : "Scott Maclure",
 	"contact" : "<a href=\"mailto:scott@maclure.com.au\">scott@maclure.com.au</a>",
 	"title" : "Web Developer",
-	"objective" : "Build tools, applications and sites, with a motivated team that cares about what and how they're doing it. To learn. Always to learn. Occasionally, to teach.",
-	"aboutme" : "I've loved working with the web since the earliest days of my profession. The open, rapid nature of development meant the cost of experimenting is low. This has allowed for the astounding pace of development, which is fantastic. In recent years, I've enjoyed the rise in focus on quality in the frontend toolbox, and multi-device development, which I consider the strength of HTML and associated tech.",
+	"objective" : "Build tools, applications and sites, with a motivated team that cares about <strong>what</strong> and <strong>how</strong> they're doing it. To learn. Always to learn. Occasionally, to teach.",
+	"aboutme" : "I've loved working with the web since the earliest days of my profession. The open, rapid nature of dev meant the cost of experimenting is low. Meaning risks can be taken. Agile excels here. In recent years, I've enjoyed the rise in focus on quality in the frontend toolbox, and multi-device development, which I consider the strength of HTML and associated tech.",
 	"social" : [
         {
             "link" : "http://scott.maclure.com.au",
@@ -51,9 +51,14 @@
 	"projects" : [
 		{
 			"name" : "Scott Maclure Website",
-			"technologies" : "PHP5 (Laravel3), Foundation3",
-			"description" : "Helped Bart build a boxcar racer, but Martin's was better."
-		}
+			"technologies" : "PHP5 (Laravel3), Foundation 3",
+			"description" : "Built my personal/work website using Foundation 3 and Laravel 3. The goal being to become my online resume and a playground for learning new things. At some point I'll migrate to v4 of both frameworks. <a href=\"http://scott.maclure.com.au\">Link</a>."
+		},
+        {
+            "name" : "Sourced Group Website",
+            "technologies" : "Node.js, JavaScript, jQuery/mobile, SCSS, Grunt, Compass, Jasmine, PhantomJS",
+            "description" : "Built a responsive, mobile-first website for Sourced. Project managed via basecamp using sprints. Managing expectations was a key point here, as the Sourced guys are basically perfectionists.  <a href=\"http://sourcedgroup.com\">Link</a>."
+        }
 	],
 	"experience" : [
 		{
@@ -92,7 +97,7 @@
 			"startDate" : "1998",
 			"endDate" : "2002",
 			"program" : "Bachelor of Science in Computing Science",
-			"achievements" : "Honours (second class)"
+			"achievements" : "Honours (second class). Discovered the simple joys of the animated gif (under construction)."
 		}
 	]
 }
