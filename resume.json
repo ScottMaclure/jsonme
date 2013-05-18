@@ -30,10 +30,9 @@
         "PHP5",
         "MySQL",
         "FreeMarker",
-        "git",
-        "SVN",
-        "TDD",
-        "Agile Methods"
+        "VCS (git, svn)",
+        "TDD, BDD",
+        "Agile Methods (co-location, kanban, standups)"
 	],
 	"frameworks" : [
         "jQuery",
@@ -101,5 +100,13 @@
 			"program" : "Bachelor of Science in Computing Science",
 			"achievements" : "Honours (second class). Discovered the simple joys of the animated gif (under construction)."
 		}
-	]
+	],
+    "other": [
+        "Reading",
+        "Creative Writing",
+        "Gaming",
+        "Surfing (the sport)",
+        "Travel",
+        "Progressive calisthenics"
+    ]
 }

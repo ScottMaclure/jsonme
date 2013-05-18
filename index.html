@@ -13,6 +13,7 @@
 		<![endif]-->
 	</head>
 	<body>
+
 		<nav>
 			<ul data-content="social">
 				
@@ -20,6 +21,7 @@
 		</nav>
 
 		<div id="content">
+
 			<div class="first" id="viewJson">
 				<span class="right"><a href="resume.json">View as JSON</a></span>
 			</div>
@@ -78,6 +80,13 @@
 				<ul data-content="education">
 				</ul>
 			</section>
+
+			<section id="other">
+				<h1>Other Interests</h1>
+				<ul data-content="other">
+				</ul>
+			</section>
+
 		</div>
 
 		<footer>
@@ -198,6 +207,12 @@
 
 		<script type="text/template" id="social-template">
 			<li><a href="${link}" target="_blank">${name}</a></li>
+		</script>
+
+		<script type="text/template" id="other-template">
+			<li>
+				${other}
+			</li>
 		</script>
 
 		<script type="text/javascript" src="js/jsonme.min.js"></script>
