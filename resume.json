@@ -98,5 +98,13 @@
 			"program" : "Bachelor of Science in Computing Science",
 			"achievements" : "Honours (second class). Discovered the simple joys of the animated gif (under construction)."
 		}
-	]
+	],
+    "other": [
+        "Reading",
+        "Creative Writing",
+        "Gaming",
+        "Surfing (the sport)",
+        "Travel",
+        "Progressive calisthenics"
+    ]
 }
