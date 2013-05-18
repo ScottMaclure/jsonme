@@ -50,13 +50,15 @@
 	"projects" : [
 		{
 			"name" : "Scott Maclure Website",
+            "url": "<a href=\"http://scott.maclure.com.au\">http://scott.maclure.com.au</a>",
 			"technologies" : "PHP5 (Laravel3), Foundation 3",
-			"description" : "Built my personal/work website using Foundation 3 and Laravel 3. The goal being to become my online resume and a playground for learning new things. At some point I'll migrate to v4 of both frameworks. <a href=\"http://scott.maclure.com.au\">Link</a>."
+			"description" : "Built my personal/work website using Foundation 3 and Laravel 3. The goal being to become my online resume and a playground for learning new things. At some point I'll migrate to v4 of both frameworks."
 		},
         {
             "name" : "Sourced Group Website",
+            "url": "<a href=\"http://sourcedgroup.com\">http://sourcedgroup.com</a>",
             "technologies" : "Node.js, JavaScript, jQuery/mobile, SCSS, Grunt, Compass, Jasmine, PhantomJS",
-            "description" : "Built a responsive, mobile-first website for Sourced. Project managed via basecamp using sprints. Managing expectations was a key point here, as the Sourced guys are basically perfectionists.  <a href=\"http://sourcedgroup.com\">Link</a>."
+            "description" : "Built a responsive, mobile-first website for Sourced. Project managed via basecamp using sprints. Managing expectations was a key point here, as the Sourced guys are basically perfectionists."
         }
 	],
 	"experience" : [
