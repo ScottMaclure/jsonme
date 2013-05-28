@@ -78,7 +78,7 @@
             "startDate" : "2005",
             "endDate" : "Present",
             "responsibilities" : "Full-stack freelance developer. I work with various small businessess and governments to implement web applications. Main tech is PHP, MySQL, JavaScript, HTML, CSS.",
-            "achievements" : "Built the <a href=\"http://www.arts.nsw.gov.au/index.php/funding-and-support/information-for-applicants-funding-and-support/apply-online-2/\">grants application platform</a> for Arts NSW at minimal cost compared to vendors. Based on Limesurvey, the platform allowed Arts to transition from a printed, PDF-centric application process to an online process, saving time and trees. Applications can be exported to PDF for record-keeping."
+            "achievements" : "Built the grants application platform (<a href=\"http://www.arts.nsw.gov.au/index.php/funding-and-support/information-for-applicants-funding-and-support/apply-online-2/\">link</a>) for Arts NSW at minimal cost compared to vendors. Based on Limesurvey, the platform allowed Arts to transition from a printed, PDF-centric application process to an online process, saving time and trees. Applications can be exported to PDF for record-keeping."
         },
         {
             "company" : "The Regional Institute / Cirql",
